@@ -1,0 +1,72 @@
+Uri: https://preview.colorlib.com/
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\index.htm
+Content Type: text/html
+
+Uri: https://preview.colorlib.com/assets/css/A.bootstrap.min.css+template.css+fa.min.css+gfonts.min.css,Mcc.LI5f1xXhbm.css.pagespeed.cf.G00NPyYGCq.css
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\assets\css\A.bootstrap.min.css template.css fa.min.css gfonts.min.css,Mcc.LI5f1xXhbm.css.pagespeed.cf.G00NPyYGCq.css
+Content Type: text/css
+
+Uri: https://colorlib.com/wp/templates/
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\wp\templates\index.htm
+Content Type: text/html
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-23581568-13
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\gtag\js.js
+Content Type: application/javascript
+
+Uri: https://preview.colorlib.com/assets/img/xlogo.png.pagespeed.ic.ICv6ugye0D.png
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\assets\img\xlogo.png.pagespeed.ic.ICv6ugye0D.png
+Content Type: image/png
+
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\ajax\libs\jquery\1.12.4\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://preview.colorlib.com/assets/js/products.js.pagespeed.ce.KT2oP7Ukqr.js
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\assets\js\products.js.pagespeed.ce.KT2oP7Ukqr.js
+Content Type: application/javascript
+
+Uri: https://preview.colorlib.com/assets/js/application.min.js.pagespeed.ce.k53sHKSrpA.js
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\assets\js\application.min.js.pagespeed.ce.k53sHKSrpA.js
+Content Type: application/javascript
+
+Uri: https://static.cloudflareinsights.com/beacon.min.js
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\beacon.min.js
+Content Type: text/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/3.2.1/font/fontawesome-webfont.eot?v=3.2.1
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\ajax\libs\font-awesome\3.2.1\font\fontawesome-webfont.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/3.2.1/font/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\ajax\libs\font-awesome\3.2.1\font\fontawesome-webfont-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/3.2.1/font/fontawesome-webfont.woff?v=3.2.1
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\ajax\libs\font-awesome\3.2.1\font\fontawesome-webfont.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/3.2.1/font/fontawesome-webfont.ttf?v=3.2.1
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\ajax\libs\font-awesome\3.2.1\font\fontawesome-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/3.2.1/font/fontawesome-webfont.svg
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\ajax\libs\font-awesome\3.2.1\font\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN_r8OUuhs.ttf
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\s\opensans\v18\mem5YaGs126MiZpBA-UN_r8OUuhs.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v18/mem8YaGs126MiZpBA-UFVZ0e.ttf
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\s\opensans\v18\mem8YaGs126MiZpBA-UFVZ0e.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN7rgOUuhs.ttf
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\s\opensans\v18\mem5YaGs126MiZpBA-UN7rgOUuhs.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN8rsOUuhs.ttf
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\s\opensans\v18\mem5YaGs126MiZpBA-UN8rsOUuhs.ttf
+Content Type: font/ttf
+
